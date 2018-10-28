@@ -13,9 +13,12 @@ The format is based on [Keep a Changelog][kc], and this project adheres to
 
 * `amethyst_test` test framework for ergonomic testing of Amethyst applications ([#1000])
 * combinations of buttons triggering actions ([#1043])
+* Support for DirectionalLight and SpotLight in PBM pass. ([#1074], [#1081])
 
 [#1000]: https://github.com/amethyst/amethyst/pull/1000
 [#1043]: https://github.com/amethyst/amethyst/pull/1043
+[#1074]: https://github.com/amethyst/amethyst/pull/1074
+[#1081]: https://github.com/amethyst/amethyst/pull/1081
 
 ## [0.9.0] - 2018-10
 
