@@ -1,0 +1,10 @@
+(
+  dimensions: Some((400, 400)),
+  max_dimensions: None,
+  min_dimensions: None,
+  fullscreen: false,
+  multisampling: 0,
+  title: "Follow Camera",
+  visibility: true,
+  vsync: true,
+)
